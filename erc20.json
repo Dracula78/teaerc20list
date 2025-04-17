@@ -63,6 +63,14 @@
       "logoURI": "https://raw.githubusercontent.com/rpxtxt/teaerc20list/refs/heads/main/punks.png",      
       "decimals": 18
     }
+    {
+      "chainId": 10218,
+      "address": "0xA4440C89bF4AbE438dEccFae82F7720B992414B4",
+      "name": "Science Token",
+      "symbol": "SCENCE",
+      "logoURI": "https://raw.githubusercontent.com/Dracula78/tea-swap-token-list/main/senku.png",      
+      "decimals": 18
+    }
   ],
   "version": {
     "major": 1,
